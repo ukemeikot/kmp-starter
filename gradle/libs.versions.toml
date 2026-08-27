@@ -12,8 +12,8 @@ ktor = "3.4.2"
 retrostash = "0.0.7"
 
 # Database / Storage
-room = "3.0.0-alpha03"
-sqlite = "2.7.0-alpha03"
+room = "3.0.1"
+sqlite = "2.7.0"
 
 # DI
 koin = "4.1.0"
@@ -78,7 +78,7 @@ kotlinx-serialization-json = { group = "org.jetbrains.kotlinx", name = "kotlinx-
 kotlinx-datetime = { group = "org.jetbrains.kotlinx", name = "kotlinx-datetime", version = "0.7.1" }
 
 # Android platform
-core = "androidx.core:core-ktx:1.18.0"
+core = "androidx.core:core-ktx:1.19.0"
 slf4j-simple = { group = "org.slf4j", name = "slf4j-simple", version = "2.0.17" }
 
 # Testing
