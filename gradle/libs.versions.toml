@@ -12,8 +12,8 @@ ktor = "3.4.2"
 retrostash = "0.0.7"
 
 # Database / Storage
-room = "3.0.0-alpha03"
-sqlite = "2.7.0-alpha03"
+room = "3.1.0-alpha01"
+sqlite = "2.8.0-alpha01"
 
 # DI
 koin = "4.1.0"
